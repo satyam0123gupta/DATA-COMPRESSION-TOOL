@@ -80,6 +80,13 @@ Choose option 2.
 
 
 
-## OUTPUT
+## AS OUTPUT RESULTS :
+
+*INPUT FILE*
+![Image](https://github.com/user-attachments/assets/7b13d645-5dff-4d47-b097-b155e61dbd3d)
+
+*WE RUN PROGRAM CHOOSE OPTION 1 (COMPRESSION)*
+
+
 
 
