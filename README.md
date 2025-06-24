@@ -95,3 +95,17 @@ Choose option 2.
 ![Image](https://github.com/user-attachments/assets/572f8f33-523a-49a9-a932-de0c44f95436)
 
 
+
+
+
+
+*FOR DECOMPRESSION SELECT OPTION 2*
+
+![Image](https://github.com/user-attachments/assets/80707cae-aa91-4383-bda2-4ab4e55deba1)
+
+
+
+*DECOMPRESSED.TXT*
+![Image](https://github.com/user-attachments/assets/7e6cc966-fbbc-4207-b8b3-a3dfb2dfb2b1)
+
+
