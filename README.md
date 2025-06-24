@@ -87,6 +87,11 @@ Choose option 2.
 
 *WE RUN PROGRAM CHOOSE OPTION 1 (COMPRESSION)*
 
+![Image](https://github.com/user-attachments/assets/a4b265e6-31f0-4e49-9b45-168a65b6e4aa)
 
+
+
+*COMPRESSED.TXT*
+![Image](https://github.com/user-attachments/assets/572f8f33-523a-49a9-a932-de0c44f95436)
 
 
