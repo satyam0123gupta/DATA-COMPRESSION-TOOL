@@ -69,21 +69,17 @@ Choose option 2.
 *For output file, type something like decompressed.txt.
 
 📁 Example File Names:
-Input Text :	input.txt
-Compressed File :	compressed.txt
-Decompressed File :	decompressed.txt
+
+*Input Text :	input.txt
+
+*Compressed File :	compressed.txt
+
+*Decompressed File :	decompressed.txt
 
 
 
 
 
 ##OUTPUT
-
-
-
-
-
-Edit
-AAABBBCCCCDD
 
 
