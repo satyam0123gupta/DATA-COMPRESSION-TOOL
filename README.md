@@ -109,3 +109,6 @@ Choose option 2.
 ![Image](https://github.com/user-attachments/assets/7e6cc966-fbbc-4207-b8b3-a3dfb2dfb2b1)
 
 
+
+## THATS ALL ABOUT RLE !!! THANKS!
+
